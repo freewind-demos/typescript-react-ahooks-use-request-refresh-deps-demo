@@ -1,7 +1,7 @@
-TypeScript React Hello World Demo
+TypeScript React Ahooks useRequest refreshDeps Demo
 =================================
 
-一个最简单的Typescript + react项目，使用了webpack
+使用refreshDeps，当其变化时，自动refresh，获取新数据
 
 ```
 npm install
